@@ -356,8 +356,9 @@ font-size: 7px;
 
 .label{
    font-weight: bold;
-   color: #b2c6ec;
+   color: #F49369;
 }
+/* #b2c6ec */
 
 .quot {
     font-family: poppins;
@@ -524,7 +525,7 @@ width: 100px; height: 80px; display: flex; align-items: center; font-size: 10px;
 }
 
 .phone {
-    width: 220px; height: 330px; border-radius: 10px; overflow: hidden; background: url(https://i.imgur.com/bU6lzdY.jpg);
+    width: 220px; height: 330px; border-radius: 10px; overflow: hidden; background: url(https://postimg.cc/hQzV7dyR);
 }
 
 .overlay { position: relative; bottom: 0; left: 0; right: 0; overflow: hidden; width:220px; height:330px; transition: .99s ease;}
@@ -562,11 +563,11 @@ width: 100px; height: 80px; display: flex; align-items: center; font-size: 10px;
 }
 
 .bola {
-width: 200px; height: 200px; border-radius: 50%; background: #91a9d6; opacity: 0.6; position: absolute; left: 700px; top: 400px; z-index: 999;
+width: 200px; height: 200px; border-radius: 50%; background: #b2c6ec; opacity: 0.6; position: absolute; left: 700px; top: 400px; z-index: 999;
 }
 
 .bola2 {
-width: 260px; height: 260px; background: #91a9d6; border-radius: 50%; position: absolute; z-index: 999; left: 190px; top: 100px; opacity: 0.5;
+width: 260px; height: 260px; background: #b2c6ec; opacity:0.6; border-radius: 50%; position: absolute; z-index: 999; left: 190px; top: 100px;
 }
 
 .pcase {
